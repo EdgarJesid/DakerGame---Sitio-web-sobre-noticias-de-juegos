@@ -14,7 +14,7 @@ Este es un proyecto web enfocado en el mundo de los videojuegos, donde se presen
 - **Git & GitHub:** Control de versiones y despliegue.
 
 ##  Vista Previa
-![alt text](image.png)
+![Vista previa del proyecto](preview.png)
 
 
 ## Autor
